@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+e9d408a1704028710180ed8011022aa9 tools/caffe.pb.cc

@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -O3 -DNDEBUG  -rdynamic CMakeFiles/caffe2ncnn_mtcnn.dir/caffe2ncnn_mtcnn.cpp.o CMakeFiles/caffe2ncnn_mtcnn.dir/caffe.pb.cc.o  -o caffe2ncnn_mtcnn -lprotobuf 
